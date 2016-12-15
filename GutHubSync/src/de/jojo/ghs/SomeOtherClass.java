@@ -4,7 +4,7 @@ public class SomeOtherClass {
   
   public static int onlineMethod(int a, int b) {
     //multiply
-    //YOLO
+    //YOLO ok, this is nice
     return a * b;
   }
 
