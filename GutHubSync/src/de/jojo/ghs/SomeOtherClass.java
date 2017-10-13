@@ -6,7 +6,6 @@ public class SomeOtherClass {
     //multiply
     //change a little bit here...
     return a * b;
-	//haskjdhasjdkhaskjdhaskjdh
   }
 
 }
